@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="applicationevent-listener" />
+        <module name="demo-wxxcx" />
+        <module name="shiro" />
+        <module name="springboot-fastjson" />
+        <module name="springboot-rabbitmq" />
+        <module name="springboot-swagger" />
+        <module name="springbootlearning" />
+        <module name="webscoket" />
+        <module name="xiaoxiyanzheng" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
